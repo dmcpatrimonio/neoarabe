@@ -1,0 +1,23 @@
+---
+title:              'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
+author:
+- name:             'Pedro Paulo Palazzo'
+  institute:        'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
+  email:            'palazzo@unb.br'
+abstract: 
+keywords:          [História da Arquitetura, Regionalismo, Neoárabe]
+header-includes:
+- type:             collection
+  text:             'Arquitetura ibérica: de al-Andalus ao Brasil'
+rights:             'Creative Commons Attribution--Non-commercial--No derivatives 4.0'
+date:               "23 de outubro de 2019"
+dir:                "ltr"
+lang:               "pt-BR"
+csl:                'https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl'
+bibliography:       'biblio.bib'
+nocite:             "@*"
+bibliography-title: 'Referências Bibliográficas'
+suppress-bibliography: True
+toc-title:          'Sumário'
+...
+
