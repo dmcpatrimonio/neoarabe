@@ -1,2 +1,1596 @@
 ---
----
+references:
+- id: 'agarez:2016algarve'
+  author:
+    - family: Agarez
+      given: Ricardo Costa
+  call-number: NA1329.A39 A48 2016
+  ISBN: 978-1-4724-5684-7
+  issued:
+    - year: 2016
+  number-of-pages: '369'
+  publisher: Routledge
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: >-
+    Algarve building: modernism, regionalism and architecture in the south of
+    Portugal, 1925-1965
+  title-short: Algarve building
+  type: book
+
+- id: 'aires:1902historia'
+  author:
+    - family: Aires
+      given: Cristóvão
+  call-number: 355.48(469)
+  issued:
+    - year: 1902
+  language: por
+  number-of-volumes: '17'
+  publisher: Imprensa Nacional ; Imprensa da Universidade
+  publisher-place: 'Lisboa : Coimbra'
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: 'Historia organica e politica do exercito portuguez: provas'
+  title-short: Provas
+  type: book
+
+- id: 'aires:1902historia1'
+  author:
+    - family: Aires
+      given: Cristóvão
+  call-number: 355.48(469)
+  issued:
+    - year: 1902
+  language: por
+  publisher: Imprensa Nacional ; Imprensa da Universidade
+  publisher-place: 'Lisboa : Coimbra'
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: 'Historia organica e politica do exercito portuguez: provas'
+  title-short: Provas
+  type: book
+  volume: '1'
+
+- id: 'alarcao:2008coimbra'
+  author:
+    - family: Alarcão
+      given: Jorge
+      dropping-particle: de
+  call-number: NA9226.C65 A43 2008
+  ISBN: 978-989-8074-30-0
+  issued:
+    - year: 2008
+  number-of-pages: '308'
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Library of Congress ISBN
+  title: 'Coimbra: a montagem do cenário urbano'
+  title-short: Coimbra
+  type: book
+
+- id: 'almeidafernandes:2017velhos24'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 11
+  author:
+    - family: Almeida Fernandes
+      given: Paulo
+  container-title: Arqueología y Territorio Medieval
+  container-title-short: AyTM
+  DOI: 10.17561/aytm.v24i0.1
+  ISSN: '2386-5423, 1134-3184'
+  issued:
+    - year: 2017
+      month: 11
+      day: 27
+  page: 11–54
+  source: DOI.org (Crossref)
+  title: >-
+    Velhos e novos materiais da expansão asturiana e leonesa no Ocidente
+    peninsular entre os rios Douro e Mondego. (Muitas) hipóteses e (poucas)
+    conclusões
+  title-short: Velhos e novos materiais da expansão asturiana
+  type: article-journal
+  URL: 'http://revistaselectronicas.ujaen.es/index.php/ATM/article/view/3666'
+  volume: '24'
+
+- id: 'amadordelosrios:1859discurso'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 11
+  author:
+    - family: Amador de los Ríos
+      given: José
+  issued:
+    - year: 1859
+  language: spa
+  publisher: José María Zamora
+  publisher-place: Granada
+  source: digibug.ugr.es
+  title: >-
+    Discurso de D. José Amador de los Ríos leído en la Real Academia de Nobles
+    Artes de San Fernando en su recepción pública
+  type: book
+  URL: 'https://digibug.ugr.es/handle/10481/17749'
+
+- id: 'amaral:1994arquitectura'
+  author:
+    - family: Amaral
+      given: Aracy A
+  ISBN: 85-85373-08-3 978-85-85373-08-5
+  issued:
+    - year: 1994
+  language: Spanish
+  publisher: 'Memorial : Fondo de Cultura Económica'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Arquitectura neocolonial: América Latina, Caribe, Estados Unidos'
+  title-short: Arquitectura neocolonial
+  type: book
+
+- id: 'anacleto:1997arquitectura'
+  accessed:
+    - year: 2019
+      month: 9
+      day: 22
+  author:
+    - family: Anacleto
+      given: Maria Regina Dias Baptista Teixeira
+  issued:
+    - year: 1997
+  language: por
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: estudogeral.sib.uc.pt
+  title: 'Arquitectura neomedieval portuguesa : 1780-1924'
+  title-short: Arquitectura neomedieval portuguesa
+  type: book
+
+- id: 'anacleto:1997reinvencao'
+  accessed:
+    - year: 2019
+      month: 9
+      day: 22
+  archive: Catálogo Integrado das Bibliotecas da Universidade de Coimbra
+  archive_location: ibu.b1287087
+  author:
+    - family: Anacleto
+      given: Regina
+  container-title: Memórias árabo-islâmicas em Portugal
+  issued:
+    - year: 1997
+      month: 1
+      day: 1
+  page: 129–142
+  publisher: >-
+    Comissão Nacional para as comemorações dos descobrimentos portugueses :
+    Câmara de Comércio Árabe-Portuguesa
+  publisher-place: Lisboa
+  title: A reinvenção do mourisco na arte portuguesa de oitocentos
+  type: chapter
+  URL: >-
+    http://search.ebscohost.com/login.aspx?direct=true&db=cat01014a&AN=ibu.b1287087&site=eds-live
+
+- id: 'andre:2011olhar'
+  accessed:
+    - year: 2014
+      month: 6
+      day: 8
+  author:
+    - family: André
+      given: Paula
+  container-title: Temporalidades
+  issue: '1'
+  issued:
+    - literal: jan./jul. 2011
+  page: 19–34
+  title: O olhar de Lucio Costa para os telhados portugueses
+  type: article-journal
+  URL: 'http://www.fafich.ufmg.br/temporalidades/pdfs/05p19.pdf'
+  volume: '3'
+
+- id: 'bertrand:2006orient'
+  call-number: NA388.A2 O75 2006
+  collection-title: Arts. Histoire des arts
+  editor:
+    - family: Bertrand
+      given: Nathalie
+  ISBN: 978-2-85399-633-4
+  issued:
+    - year: 2006
+  number-of-pages: '190'
+  publisher: Publications de l'université de Provence
+  publisher-place: Aix-en-Provence
+  source: Library of Congress ISBN
+  title: L'orient des architectes
+  type: book
+
+- id: 'bianca:2000urban'
+  author:
+    - family: Bianca
+      given: Stefano
+  call-number: NA9246.A65 B53 2000
+  ISBN: 978-0-500-28205-2
+  issued:
+    - year: 2000
+  number-of-pages: '347'
+  publisher: Thames & Hudson
+  publisher-place: 'London : New York'
+  source: Library of Congress ISBN
+  title: 'Urban form in the Arab world: past and present'
+  title-short: Urban form in the Arab world
+  type: book
+
+- id: 'blaut:1993colonizers'
+  author:
+    - family: Blaut
+      given: James M.
+  call-number: D16.9 .B49 1992
+  ISBN: 978-0-89862-349-9 978-0-89862-348-2
+  issued:
+    - year: 1993
+  number-of-pages: '246'
+  publisher: Guilford
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: >-
+    The colonizer's model of the world: geographical diffusionism and
+    Eurocentric history
+  title-short: The colonizer's model of the world
+  type: book
+
+- id: 'camposperez:2016america'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 24
+  author:
+    - family: Campos Pérez
+      given: Lara
+  container-title: 'Historia y Política: Ideas, Procesos y Movimientos Sociales'
+  container-title-short: 'Hist. Polít. Ideas, Procesos Mov. Soc.'
+  DOI: 10.18042/hp.35.02
+  ISSN: 1989063X
+  issue: '35'
+  issued:
+    - year: 2016
+      month: 5
+      day: 26
+  page: 19-46
+  source: DOI.org (Crossref)
+  title: >-
+    América y lo americano en los manuales escolares de Historia a lo largo del
+    siglo XX
+  type: article-journal
+  URL: 'http://recyt.fecyt.es/index.php/Hyp/article/view/50907'
+
+- id: 'caniggia:1997analisi'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  container-title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  ISBN: 88-8125-191-4 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: Italian
+  original-date:
+    - year: 1981
+  page: 59–107
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: 'Analisi tipologica: la corte matrice dell’insediamento'
+  title-short: Metodologia del recupero
+  type: chapter
+
+- id: 'carita:1999oriente'
+  author:
+    - family: Carita
+      given: Helder
+  call-number: '728.3'
+  ISBN: 978-972-26-0568-7
+  issued:
+    - year: 1999
+  number-of-pages: '287'
+  publisher: Civilização
+  publisher-place: Porto
+  source: webopac.sib.uc.pt Library Catalog
+  title: Oriente e Ocidente nos interiores em Portugal
+  type: book
+
+- id: 'catalogo:1882'
+  call-number: '745'
+  issued:
+    - year: 1882
+  language: por
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Catalogo illustrado da exposição retrospectiva de arte ornamental portugueza
+    e hespanhola celebrada em Lisboa em 1882 sob a protecção de Sua Magestade
+    El-Rei D. Luiz I e apresidencia de Sua Magestade El-Rei o senhor D. Fernando
+    II
+  title-short: Exposição retrospectiva
+  type: book
+
+- id: 'coelho:2014tempo'
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: Portuguese
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O Tempo e a Forma
+  title-short: Cadernos MUrb morfologia urbana
+  type: book
+
+- id: 'correia:1923lugares'
+  author:
+    - family: Correia
+      given: Virgílio
+  call-number: '910.42'
+  issued:
+    - year: 1923
+  number-of-pages: '102'
+  publisher: Anuario Comercial
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Lugares dalêm: Azemôr, Mazagão, Çafim: conferências realizadas em Lisboa,
+    Porto e Coimbra em Maio-Junho de 1923
+  title-short: Lugares dalêm
+  type: book
+
+- id: 'costa:2013bloquinhos'
+  author:
+    - family: Costa
+      given: Lúcio
+  call-number: NA1321 .C67 2013
+  edition: '1'
+  editor:
+    - family: Pessôa
+      given: José
+    - family: Costa
+      given: Maria Elisa
+  ISBN: 978-85-7507-153-3
+  issued:
+    - year: 2013
+  language: por eng
+  number-of-pages: '271'
+  publisher: Funarte
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: 'Bloquinhos de Portugal: a arquitetura portuguesa no traço de Lucio Costa'
+  title-short: Bloquinhos de Portugal
+  type: book
+
+- id: 'debret:1834voyage'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  issued:
+    - year: 1834
+    - year: 1839
+  language: Francês
+  number-of-volumes: '3'
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: 'http://digital.bbm.usp.br/handle/bbm/4716'
+
+- id: 'debret:1834voyage1'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  issued:
+    - year: 1834
+  language: Francês
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: 'http://digital.bbm.usp.br/handle/bbm/3813'
+  volume: '1'
+
+- id: 'debret:1835diner'
+  accessed:
+    - year: 2019
+      month: 12
+      day: 12
+  archive: >-
+    The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print
+    Collection. The New York Public Library
+  archive_location: MEM+++D288dv
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  call-number: b10086131
+  issued:
+    - year: 1835
+  language: en
+  medium: Lithographie Thierry Frères
+  source: NYPL catalog
+  title: Le dîner; Les délassements d'une après dîner.
+  type: graphic
+  URL: >-
+    http://digitalcollections.nypl.org/items/510d47df-7977-a3d9-e040-e00a18064a99
+
+- id: 'debret:1835voyage2'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  issued:
+    - year: 1835
+  language: Francês
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: 'http://digital.bbm.usp.br/handle/bbm/3802'
+  volume: '2'
+
+- id: 'debret:1839plans'
+  accessed:
+    - year: 2019
+      month: 12
+      day: 12
+  archive: >-
+    The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print
+    Collection. The New York Public Library
+  archive_location: MEM+++D288dv
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  call-number: b10086131
+  issued:
+    - year: 1839
+  language: en
+  medium: Lithographie Thierry Frères
+  source: NYPL catalog
+  title: >-
+    Plans et élévation de deux petites maisons: l'une de ville et l'autre de
+    campagne.
+  title-short: Plans et élévation de deux petites maisons
+  type: graphic
+  URL: >-
+    https://digitalcollections.nypl.org/items/510d47df-7b9e-a3d9-e040-e00a18064a99
+
+- id: 'debret:1839voyage3'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  issued:
+    - year: 1839
+  language: Francês
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: 'http://digital.bbm.usp.br/handle/bbm/4716'
+  volume: '3'
+
+- id: 'dgpc:casa'
+  accessed:
+    - year: 2019
+      month: 12
+      day: 12
+  author:
+    - family: DGPC
+      given: Direção-Geral do Património Cultural
+  container-title: Património Cultural
+  title: Casa das Gelosias
+  type: webpage
+  URL: >-
+    http://www.patrimoniocultural.gov.pt/pt/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/74661/
+
+- id: 'dias:1986viagem'
+  author:
+    - family: Dias
+      given: Pedro
+  call-number: '72'
+  container-title: Relaciones artísticas entre Portugal y España
+  editor:
+    - family: Caamaño
+      given: Jesús María
+  issued:
+    - year: 1986
+  publisher: Junta de Castilla y Leon
+  publisher-place: Valladolid
+  source: webopac.sib.uc.pt Library Catalog
+  title: A viagem de D. Manuel a Espanha e o surto mudéjar na arquitectura portuguesa
+  type: chapter
+
+- id: 'dias:1994arquitectura'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 12
+  author:
+    - family: Dias
+      given: Pedro
+  call-number: '72.033'
+  container-title: 'Mare liberum: revista de história dos mares'
+  issue: '8'
+  issued:
+    - year: 1994
+      month: 12
+  page: 49–89
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Arquitectura mudéjar portuguesa: tentativa de sistematização'
+  title-short: Arquitectura mudéjar portuguesa
+  type: article-journal
+  URL: >-
+    http://www.cidehusdigital.uevora.pt/ophir-restaurada/mare-liberum/volume-8/arquitectura-mudejar-portuguesa-tentativa-de-sistematizacao?pag=49
+
+- id: 'esquivel:2007teoria'
+  author:
+    - family: Esquível
+      given: Patrícia
+  call-number: '7.01'
+  collection-number: '5'
+  collection-title: Teses
+  ISBN: 978-972-772-719-3
+  issued:
+    - year: 2007
+  number-of-pages: '296'
+  publisher: 'Colibri : IHA - Estudos de Arte Contemporânea'
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Teoria e critica de arte em Portugal: 1921-1940'
+  title-short: Teoria e critica de arte em Portugal
+  type: book
+
+- id: 'falini:1978politica'
+  author:
+    - family: Falini
+      given: Paola E.
+  container-title: >-
+    Le città di fondazione: atti del 2. Convegno internazionale di storia
+    urbanistica : Lucca, 7-11 settembre 1977
+  editor:
+    - family: Martinelli
+      given: Roberta
+    - family: Nuti
+      given: Lucia
+  issued:
+    - year: 1978
+  language: Italian
+  page: 97–106
+  publisher: CISCU ; Marsilio
+  publisher-place: Lucca; Venezia
+  source: Open WorldCat
+  title: >-
+    La politica delle città nuove nel sud-ovest della Francia nel XIII e XIV
+    secolo
+  type: chapter
+
+- id: 'fernandes:2014fundacao'
+  author:
+    - family: Fernandes
+      given: Sérgio Padrão
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  container-title: O Tempo e a Forma
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: Portuguese
+  page: 70–93
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: >-
+    Fundação e evolução dos traçados urbanos: Matrizes elementares de
+    assentamento e derivações complexas
+  title-short: Fundação e evolução dos traçados urbanos
+  type: chapter
+
+- id: 'ferreira:2014lisboa'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 12
+  author:
+    - family: Ferreira
+      given: Maria Emília de Oliveira
+  genre: Tese (Doutoramento em História da Arte Contemporânea)
+  issued:
+    - year: 2014
+      month: 1
+  language: por
+  publisher: 'Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa'
+  publisher-place: Lisboa
+  source: run.unl.pt
+  title: >-
+    Lisboa em festa: a exposição retrospectiva de arte ornamental portuguesa e
+    espanhola, 1882. Antecedentes e materialização
+  title-short: Lisboa em festa
+  type: thesis
+  URL: 'https://run.unl.pt/handle/10362/15502'
+
+- id: 'garcianistal:2011incorporacion'
+  author:
+    - family: García Nistal
+      given: José
+  container-title: Actas
+  event: XII Simposio Internacional de Mudejarismo
+  issued:
+    - year: 2011
+  page: 199–211
+  publisher: Centro de Estudios Mudéjares
+  publisher-place: Teruel
+  title: >-
+    La incorporación del término mudéjar a la historia de la arquitectura
+    española: un mérito compartido
+  type: paper-conference
+
+- id: 'goncalves:1960exposicao'
+  author:
+    - family: Gonçalves
+      given: António Manuel
+  call-number: '7.04'
+  issued:
+    - year: 1960
+  number-of-pages: '23'
+  publisher: Ed. Gráfica Portuguesa
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: A exposição retrospectiva de arte ornamental portuguesa e espanhola de 1882
+  type: book
+
+- id: 'gutierrezvinuales:2016identidades'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 24
+  author:
+    - family: Gutiérrez Viñuales
+      given: Rodrigo
+  container-title: 'Historia y Política: Ideas, Procesos y Movimientos Sociales'
+  container-title-short: 'Hist. Polít. Ideas, Procesos Mov. Soc.'
+  DOI: 10.18042/hp.36.08
+  ISSN: 1989063X
+  issue: '36'
+  issued:
+    - year: 2016
+      month: 12
+      day: 2
+  page: 191-210
+  source: DOI.org (Crossref)
+  title: >-
+    Identidades españolas en América a través del arte y la arquitectura.
+    Escenarios de entresiglos (1890-1930) y prolongaciones en el tiempo
+  type: article-journal
+  URL: 'http://recyt.fecyt.es/index.php/Hyp/article/view/35645'
+
+- id: 'jarrasse:2006feminite'
+  author:
+    - family: Jarrassé
+      given: Dominique
+  call-number: NA388.A2 O75 2006
+  collection-title: Arts. Histoire des arts
+  container-title: L'orient des architectes
+  editor:
+    - family: Bertrand
+      given: Nathalie
+  ISBN: 978-2-85399-633-4
+  issued:
+    - year: 2006
+  page: 77–94
+  publisher: Publications de l'université de Provence
+  publisher-place: Aix-en-Provence
+  source: Library of Congress ISBN
+  title: >-
+    Féminité, passivité, fantaisie… Architecture et caractère des peuples
+    orientaux au regard de l'Occident
+  title-short: 'Féminité, passivité, fantaisie…'
+  type: chapter
+
+- id: 'kessel:2008arquitetura'
+  author:
+    - family: Kessel
+      given: Carlos
+  call-number: 72.035.9(81)
+  ISBN: 978-85-89410-02-1 85-89410-02-1
+  issued:
+    - year: 2008
+  language: Portuguese
+  publisher: 'Universidade Estácio de Sá, Curso de Arquitetura e Urbanismo : Jauá Editora'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'Arquitetura neocolonial no Brasil: entre o pastiche e a modernidade'
+  title-short: Arquitetura neocolonial no Brasil
+  type: book
+
+- id: 'lavedan:1926questce'
+  author:
+    - family: Lavedan
+      given: Pierre
+  call-number: '711.4'
+  issued:
+    - year: 1926
+  number-of-pages: '269'
+  publisher: H. Laurens
+  publisher-place: Paris
+  source: webopac.sib.uc.pt Library Catalog
+  title: Qu'est-ce l'urbanisme? Introduction a l'histoire de l'urbanisme
+  title-short: Qu'est-ce l'urbanisme?
+  type: book
+
+- id: 'lemos:2012bayle'
+  accessed:
+    - year: 2019
+      month: 9
+      day: 22
+  archive: Estudo Geral
+  archive_location: sibuc.10316.20941
+  author:
+    - family: Lemos
+      given: Joana Filipa Cabral
+  genre: Dissertação (Mestrado Integrado em Arquitectura)
+  issued:
+    - year: 2012
+      month: 7
+      day: 1
+  publisher: >-
+    Departamento de Arquitectura da Faculdade de Ciências e Tecnologia da
+    Universidade de Coimbra
+  publisher-place: Coimbra
+  title: >-
+    O bayle mourisco : arquitectura neomourisca em Lisboa e Sintra : as 'casas
+    marroquinas' de Raul Lino
+  title-short: O bayle mourisco
+  type: thesis
+  URL: 'http://hdl.handle.net/10316/20941'
+
+- id: 'lima:2007debret'
+  author:
+    - family: Lima
+      given: Valéria Alves Esteves
+  call-number: '94'
+  collection-number: '25'
+  collection-title: Várias histórias
+  ISBN: 978-85-268-0770-9
+  issued:
+    - year: 2007
+  number-of-pages: '325'
+  publisher: Unicamp
+  publisher-place: Campinas
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    J.-B. Debret, historiador e pintor: a viagem pitoresca e histórica ao Brasil
+    (1816-1839)
+  title-short: 'J.-B. Debret, historiador e pintor'
+  type: book
+
+- id: 'lima:2008transito'
+  accessed:
+    - year: 2013
+      month: 9
+      day: 16
+  author:
+    - family: Lima
+      given: Solange Ferraz
+      dropping-particle: de
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  DOI: 10.1590/S0101-47142008000100005
+  ISSN: 0101-4714
+  issue: '1'
+  issued:
+    - year: 2008
+      month: 6
+  page: 151-199
+  source: SciELO
+  title: >-
+    O trânsito dos ornatos: modelos ornamentais da Europa para o Brasil, seus
+    usos (e abusos?)
+  title-short: O trânsito dos ornatos
+  type: article-journal
+  URL: 'http://ref.scielo.org/kqwrbk'
+  volume: '16'
+
+- id: 'lobo:2012urbanismo'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  editor:
+    - family: Lobo
+      given: Manuel Leal da Costa
+    - family: Simões Júnior
+      given: José Geraldo
+  ISBN: 978-85-8293-053-3
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: 'SciELO : Editora Mackenzie'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Urbanismo de colina. Uma tradição luso-brasileira
+  title-short: Urbanismo de colina
+  type: book
+  URL: 'http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855'
+
+- id: 'macias:1998portugal'
+  call-number: DP559 .P67 1998
+  editor:
+    - family: Macias
+      given: Santiago
+    - family: Torres
+      given: Cláudio
+  ISBN: 978-972-776-000-8
+  issued:
+    - year: 1998
+  number-of-pages: '335'
+  publisher: Museu Nacional de Arqueologia
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Portugal islâmico: os últimos sinais do Mediterrâneo: [catálogo de exibição]'
+  title-short: Portugal islâmico
+  type: book
+
+- id: 'mariannofilho:1943influencias'
+  author:
+    - family: Marianno Filho
+      given: José
+  issued:
+    date-parts:
+      - - '1943'
+  original-date:
+    - year: 1943
+  publisher: A Noite
+  publisher-place: Rio de Janeiro
+  title: Influencias muçulmanas na architectura tradicional brasileira
+  type: book
+
+- id: 'marins:2001atraves'
+  author:
+    - family: Marins
+      given: Paulo César Garcez
+  call-number: NA9165 .M37 2001
+  collection-title: Série Teses
+  ISBN: 978-85-7506-021-6
+  issued:
+    - year: 2001
+  number-of-pages: '317'
+  publisher: 'Humanitas : Edusp'
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: 'Através da rótula: sociedade e arquitetura no Brasil, séculos XVII a XX'
+  title-short: Através da rótula
+  type: book
+
+- id: 'martinelli:1978citta'
+  editor:
+    - family: Martinelli
+      given: Roberta
+    - family: Nuti
+      given: Lucia
+  issued:
+    - year: 1978
+  language: Italian
+  publisher: CISCU ; Marsilio
+  publisher-place: Lucca; Venezia
+  source: Open WorldCat
+  title: >-
+    Le città di fondazione: atti del 2. Convegno internazionale di storia
+    urbanistica : Lucca, 7-11 settembre 1977
+  title-short: Le città di fondazione
+  type: book
+
+- id: 'martins:1953teoriaXXVIII'
+  author:
+    - family: Martins
+      given: J. P. Oliveira
+  call-number: 821.134.3
+  container-title: Biblos
+  issued:
+    - year: 1953
+  page: 9–44
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'A teoria do mosarabismo de Teófilo Braga: inédito'
+  title-short: A teoria do mosarabismo de Teófilo Braga
+  type: article-journal
+  volume: XXVIII
+
+- id: 'mazzoli-guintard:2000ciudades'
+  author:
+    - family: Mazzoli-Guintard
+      given: Christine
+  call-number: 711.4(46)
+  edition: '1'
+  ISBN: 978-84-931194-1-6
+  issued:
+    - year: 2000
+  number-of-pages: '570'
+  publisher: Editorial Al-Andalus y el Mediterráneo
+  publisher-place: Granada
+  source: Library of Congress ISBN
+  title: >-
+    Ciudades de al-Andalus: España y Portugal en la época musulmana, siglos
+    VIII-XV
+  title-short: Ciudades de al-Andalus
+  type: book
+
+- id: 'medeiros:2006urbis'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 17
+  author:
+    - family: Medeiros
+      given: Valério Augusto Soares
+      dropping-particle: de
+  genre: Tese (doutorado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2006
+      month: 11
+      day: 16
+  language: Português
+  publisher: Universidade de Brasília
+  source: repositorio.unb.br
+  title: >-
+    Urbis brasiliae ou sobre cidades do Brasil : inserindo assentamentos urbanos
+    do país em investigações configuracionais comparativas
+  title-short: Urbis brasiliae ou sobre cidades do Brasil
+  type: thesis
+  URL: 'http://repositorio.unb.br/handle/10482/1557'
+
+- id: 'medeiros:2013urbis'
+  author:
+    - family: Medeiros
+      given: Valério
+  call-number: NA9165 .M44 2013
+  ISBN: 978-85-230-1100-0
+  issued:
+    - year: 2013
+  number-of-pages: '611'
+  publisher: Editora UnB
+  publisher-place: 'Brasília, DF'
+  source: Library of Congress ISBN
+  title: 'Urbis brasiliae: o labirinto das cidades brasileiras'
+  title-short: Urbis brasiliae
+  type: book
+
+- id: 'merveilleux:1738memoires1'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 12
+  author:
+    - family: Merveilleux
+      given: Charles Frédéric
+      dropping-particle: de
+  issued:
+    - year: 1738
+  language: FR
+  publisher: H. du Sauzet
+  publisher-place: Amsterdam
+  source: gallica.bnf.fr
+  title: >-
+    Mémoires instructifs pour un voyageur dans les divers états de l'Europe :
+    contenant des anecdotes curieuses très propres à éclaircir l'histoire du
+    tems ; avec des remarques sur le commerce et l'histoire naturelle
+  title-short: Mémoires instructifs pour un voyageur dans les divers états de l'Europe
+  type: book
+  URL: 'https://gallica.bnf.fr/ark:/12148/bpt6k5530992c'
+  volume: '1'
+
+- id: 'merveilleux:1738memoires2'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 12
+  author:
+    - family: Merveilleux
+      given: Charles Frédéric
+      dropping-particle: de
+  issued:
+    - year: 1738
+  language: FR
+  publisher: H. du Sauzet
+  publisher-place: Amsterdam
+  source: gallica.bnf.fr
+  title: >-
+    Mémoires instructifs pour un voyageur dans les divers états de l'Europe :
+    contenant des anecdotes curieuses très propres à éclaircir l'histoire du
+    tems ; avec des remarques sur le commerce et l'histoire naturelle
+  title-short: Mémoires instructifs pour un voyageur dans les divers états de l'Europe
+  type: book
+  URL: 'https://gallica.bnf.fr/ark:/12148/bpt6k55324231'
+  volume: '2'
+
+- id: 'montaner:1878buscaAny8Tomo1'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 7
+  author:
+    - family: Montaner
+      given: Lluis Domènech
+      dropping-particle: i
+  container-title: 'La Renaxensa : periodich de literatura, ciencias y arts'
+  issue: '4'
+  issued:
+    - year: 1878
+      month: 2
+      day: 28
+  page: 149–160
+  title: En busca de una arquitectura nacional
+  title-short: La Renaxensa
+  type: article-journal
+  URL: 'https://arca.bnc.cat/arcabib_pro/ca/consulta/registro.do?id=2232'
+  volume: Any 8 Tomo 1
+
+- id: 'ortigao:1943arte'
+  author:
+    - family: Ortigão
+      given: Ramalho
+  call-number: 72/73
+  collection-number: '2'
+  collection-title: Obras completas de Ramalho Ortigão
+  issued:
+    - year: 1943
+  number-of-volumes: '3'
+  publisher: Livraria Clássica
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: Arte portuguesa
+  type: book
+
+- id: 'ortigao:1943culto1'
+  author:
+    - family: Ortigão
+      given: Ramalho
+  call-number: 72/73
+  collection-number: '2'
+  collection-title: Obras completas de Ramalho Ortigão
+  container-title: Arte portuguesa
+  issued:
+    - year: 1943
+  page: 5–198
+  publisher: Livraria Clássica
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: O culto da arte em Portugal
+  type: chapter
+  volume: '1'
+
+- id: 'oulebsir:2009orientalisme'
+  editor:
+    - family: Oulebsir
+      given: Nabila
+  ISBN: 978-2-7084-0851-7
+  issued:
+    - year: 2009
+  language: French
+  publisher: CNRS
+  publisher-place: Paris
+  source: Open WorldCat
+  title: 'L’orientalisme architectural : entre imaginaires et savoirs'
+  title-short: L’orientalisme architectural
+  type: book
+
+- id: 'palazzo:2018tipologia'
+  author:
+    - family: Palazzo
+      given: Pedro Paulo
+  container-title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana = A project for the future of Beirã
+    (Marvão) based on the traditional architecture and urbanism of the Alentejo
+    region
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  page: 91–97
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Tipologia da edificação na arquitectura vernácula da Beirã = Building
+    typology in the vernacular architecture of Beirã
+  title-short: Tipologia da edificação
+  type: chapter
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: 'palma:2016desenvolvimento'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 25
+  author:
+    - family: Palma
+      given: Jorge Filipe Maria
+      dropping-particle: da
+  genre: Dissertação (Mestrado em História)
+  issued:
+    - year: 2016
+      month: 2
+      day: 18
+  language: por
+  publisher: Faculdade de Ciências Humanas e Sociais da Universidade do Algarve
+  source: sapientia.ualg.pt
+  title: >-
+    O desenvolvimento urbano de Loulé do período medieval ao fim da época
+    moderna
+  type: thesis
+  URL: 'https://sapientia.ualg.pt/handle/10400.1/8056'
+
+- id: 'panerai:2006analise'
+  author:
+    - family: Panerai
+      given: Philippe
+  call-number: '718.04'
+  ISBN: 85-230-0923-X 978-85-230-0923-6
+  issued:
+    - year: 2006
+  language: Portuguese
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Análise urbana
+  translator:
+    - family: Leitão
+      given: Francisco
+  type: book
+
+- id: 'panerai:2012analyse'
+  author:
+    - family: Panerai
+      given: Philippe
+  ISBN: 978-2-86364-603-8
+  issued:
+    - year: 2012
+  language: French
+  publisher: Parenthèses
+  publisher-place: Marseille
+  source: Open WorldCat
+  title: Analyse urbaine
+  type: book
+
+- id: 'patetta:1975larchitettura'
+  author:
+    - family: Patetta
+      given: Luciano
+  issued:
+    - year: 1975
+  language: it
+  number-of-pages: '412'
+  publisher: G. Mazzotta
+  publisher-place: Milano
+  source: Google Books
+  title: 'L''architettura dell''eclettismo: fonti, teorie, modelli 1750-1900'
+  title-short: L'architettura dell'eclettismo
+  type: book
+
+- id: 'pessoa:2018desenhar15'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 12
+  author:
+    - family: Pessôa
+      given: José Simões
+  container-title: Risco Revista de Pesquisa em Arquitetura e Urbanismo (Online)
+  container-title-short: 'Risco, Rev. Pesqui. Arquit. Urban.'
+  DOI: 10.11606/issn.1984-4506.v15i2p50-59
+  ISSN: 1984-4506
+  issue: '2'
+  issued:
+    - year: 2018
+      month: 7
+      day: 9
+  page: 50-59
+  source: DOI.org (Crossref)
+  title: >-
+    Desenhar para compreender e lembrar: a arquitetura portuguesa no traço de
+    Lúcio Costa
+  title-short: Desenhar para compreender e lembrar
+  type: article-journal
+  URL: 'https://www.revistas.usp.br/risco/article/view/144503'
+  volume: '15'
+
+- id: 'piacentini:1996architettura'
+  author:
+    - family: Piacentini
+      given: Marcello
+  issued:
+    - year: 1996
+  publisher: Marsilio
+  publisher-place: Venezia
+  title: Architettura moderna
+  type: book
+
+- id: 'piacentini:1996dove'
+  author:
+    - family: Piacentini
+      given: Marcello
+  container-title: Architettura moderna
+  issued:
+    - year: 1996
+  page: 161-167
+  publisher: Marsilio
+  publisher-place: Venezia
+  title: Dove è irragionevole l'architettura razionale
+  type: chapter
+
+- id: 'pinheiro:2012neocolonial'
+  author:
+    - family: Pinheiro
+      given: Maria Lúcia Bressan
+  call-number: 72.035.9+72.025(817.4)
+  ISBN: 978-85-314-1304-9 85-314-1304-4
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: EdUSP
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Neocolonial, modernismo e preservação do patrimônio no debate cultural dos
+    anos 1920 no Brasil
+  title-short: Neocolonial
+  type: book
+
+- id: 'rodrigues:1975documentario'
+  author:
+    - family: Rodrigues
+      given: José Wasth
+  issued:
+    - year: 1975
+  language: Portuguese
+  publisher: Livraria Martins Editora
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Documentário arquitetônico: relativo à antiga construção civil no Brasil'
+  title-short: Documentário arquitetônico
+  type: book
+
+- id: 'rodriguezdomingo:1999neomudejar'
+  accessed:
+    - year: 2019
+      month: 9
+      day: 25
+  author:
+    - family: Rodríguez Domingo
+      given: José Manuel
+  container-title: 'Espacio Tiempo y Forma. Serie VII, Historia del Arte'
+  DOI: 10.5944/etfvii.12.1999.2348
+  ISSN: 1130-4715
+  issue: '12'
+  issued:
+    - year: 1999
+      month: 1
+      day: 1
+  language: es
+  source: revistas.uned.es
+  title: >-
+    Neomudéjar versus neomusulmán : definición y concepción del medievalismo
+    islámico en España
+  title-short: Neomudéjar versus neomusulmán
+  type: article-journal
+  URL: 'http://revistas.uned.es/index.php/ETFVII/article/view/2348'
+
+- id: 'romero:1906patria'
+  author:
+    - family: Romero
+      given: Sílvio
+  call-number: '94'
+  issued:
+    - year: 1906
+  number-of-pages: '520'
+  publisher: Livraria Clássica de A. M. Teixeira & C.ta
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    A Patria portugueza: o território e a raça: apreciação do livro de igual
+    título de Theophilo Braga
+  title-short: A Patria portugueza
+  type: book
+
+- id: 'royo:2016fenomeno5'
+  author:
+    - family: Royo
+      given: Laura Castro
+  container-title: Roda da Fortuna
+  ISSN: 2014-7430
+  issue: 1-1
+  issued:
+    - year: 2016
+  language: es
+  page: 57–71
+  source: Zotero
+  title: El fenómeno del mudejarismo y sus debates (ss. XIX-XX)
+  type: article-journal
+  volume: '5'
+
+- id: 'said:1978orientalism'
+  author:
+    - family: Said
+      given: Edward W.
+  issued:
+    - year: 1978
+  publisher: Routledge  Kegan Paul
+  publisher-place: London
+  title: Orientalism
+  type: book
+
+- id: 'said:1991orientalism'
+  author:
+    - family: Said
+      given: Edward W.
+  ISBN: 978-0-14-013725-5
+  issued:
+    - year: 1991
+  language: eng
+  number-of-pages: '368'
+  publisher: Penguin
+  publisher-place: London
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Orientalism
+  type: book
+
+- id: 'schaeffer:1971chinesicesXXII'
+  author:
+    - family: Schaeffer
+      given: Enrico
+  container-title: Anais do Museu Histórico Nacional
+  issued:
+    - year: 1971
+  page: 33–49
+  title: Chinesices no Brasil
+  type: article-journal
+  volume: XXII
+
+- id: 'schmidt:1978topografia'
+  author:
+    - family: Schmidt
+      given: Giulio
+  container-title: >-
+    Le città di fondazione: atti del 2. Convegno internazionale di storia
+    urbanistica : Lucca, 7-11 settembre 1977
+  editor:
+    - family: Martinelli
+      given: Roberta
+    - family: Nuti
+      given: Lucia
+  issued:
+    - year: 1978
+  language: Italian
+  page: 59–96
+  publisher: CISCU ; Marsilio
+  publisher-place: Lucca; Venezia
+  source: Open WorldCat
+  title: Topografia storica della città altomedievale
+  type: chapter
+
+- id: 'severo:1912origens'
+  author:
+    - family: Severo
+      given: Ricardo
+  issued:
+    - year: 1912
+  language: Portuguese
+  publisher: A.M. Teixeira
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Origens da nacionalidade portugueza
+  type: book
+
+- id: 'silva:2014fenomeno'
+  accessed:
+    - year: 2019
+      month: 11
+      day: 11
+  author:
+    - family: Silva
+      given: Heitor Penedro Silveira
+      dropping-particle: da
+  genre: Dissertação (mestrado em História da Arte Medieval)
+  issued:
+    - year: 2014
+      month: 9
+  language: por
+  publisher: 'Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa'
+  publisher-place: Lisboa
+  source: run.unl.pt
+  title: O fenómeno mudéjar no tardo-gótico alentejano
+  type: thesis
+  URL: 'https://run.unl.pt/handle/10362/14406'
+
+- id: 'sola-morales:1980eclecticismo'
+  author:
+    - family: Solà-Morales
+      given: Ignasi
+      dropping-particle: de
+  call-number: '72.036'
+  collection-title: Colección Arquitectura y Critica
+  edition: '1'
+  ISBN: 978-84-252-0987-1
+  issued:
+    - year: 1980
+  language: spa
+  number-of-pages: '221'
+  publisher: Gustavo Gili
+  publisher-place: Barcelona
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Eclecticismo y vanguardia: el caso de la arquitectura moderna en Catalunya'
+  title-short: Eclecticismo y vanguardia
+  type: book
+
+- id: 'sola-morales:2004eclecticismo'
+  author:
+    - family: Solà-Morales
+      given: Ignasi
+      dropping-particle: de
+  call-number: 72.036(460)
+  collection-title: Arquitectura y critica
+  edition: '2'
+  ISBN: 978-84-252-1949-8
+  issued:
+    - year: 2004
+  number-of-pages: '233'
+  publisher: Gustavo Gili
+  publisher-place: Barcelona
+  source: webopac.sib.uc.pt Library Catalog
+  title: Eclecticismo y vanguardia y otros escritos
+  type: book
+
+- id: 'teixeira:2012forma'
+  author:
+    - family: Teixeira
+      given: Manuel C
+  ISBN: 978-85-393-0175-1 978-85-401-0033-6
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: 'Unesp : Imprensa Oficial do Estado'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A forma da cidade de origem portuguesa
+  type: book
+
+- id: 'torres:1998apresentacao'
+  author:
+    - family: Torres
+      given: Cláudio
+    - family: Macias
+      given: Santiago
+  call-number: DP559 .P67 1998
+  container-title: 'Portugal islâmico: os últimos sinais do Mediterrâneo: [catálogo de exibição]'
+  editor:
+    - family: Macias
+      given: Santiago
+    - family: Torres
+      given: Cláudio
+  ISBN: 978-972-776-000-8
+  issued:
+    - year: 1998
+  page: '13'
+  publisher: Museu Nacional de Arqueologia
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Apresentação
+  type: chapter
+
+- id: 'trindade:2009urbanismo'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  genre: Tese (doutoramento) em História da Arte
+  issued:
+    - year: 2009
+  language: por
+  publisher: Faculdade de Letras da Universidade de Coimbra
+  source: estudogeral.uc.pt
+  title: Urbanismo na composição de Portugal
+  type: thesis
+  URL: 'https://estudogeral.uc.pt/handle/10316/13529'
+
+- id: 'trindade:2013urbanismo'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 711.4(469)(043.2)
+  DOI: 10.14195/978-989-26-0772-6
+  ISBN: 978-989-26-0772-6
+  issued:
+    - year: 2013
+  publisher: Imprensa da Universidade de Coimbra
+  source: Crossref
+  title: Urbanismo na composição de Portugal
+  type: book
+  URL: 'https://digitalis.uc.pt/handle/10316.2/29700'
+
+- id: 'wolfflin:1886prolegomena'
+  archive_location: 'https://archive.org/details/gri_33125008677862/page/n4'
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  call-number: '72.01'
+  genre: Inaugural-Dissertation
+  issued:
+    - year: 1886
+  language: de
+  publisher: 'hohe philosophische Fakultät, Universität München'
+  publisher-place: München
+  title: Prolegomena zu einer Psychologie der Architektur
+  type: thesis
+
+- id: 'wolfflin:1948kunstgeschichtliche'
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  edition: '10'
+  issued:
+    - year: 1948
+  publisher: Benno Schwabe
+  publisher-place: Basel
+  title: >-
+    Kunstgeschichtliche Grundbegriffe: das Problem der Stilentwicklung in der
+    neueren Kunst
+  type: book
+...
