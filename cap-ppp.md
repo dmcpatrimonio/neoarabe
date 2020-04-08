@@ -1,25 +1,20 @@
 ---
-title:              'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
+title:            : 'Reminiscências árabes na arquitetura luso-brasileira anterior ao ecletismo'
 author:
-- name:             'Pedro Paulo Palazzo'
-  institute:        'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
-  email:            'palazzo@unb.br'
+- name            : 'Pedro Paulo Palazzo'
+  institute       : 'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
+  email           : 'palazzo@unb.br'
 abstract: 
-keywords:          [História da Arquitetura, Regionalismo, Neoárabe]
+keywords          : [História da Arquitetura, Regionalismo, Neoárabe]
 header-includes:
-- type:             collection
-  text:             'Arquitetura ibérica: de al-Andalus ao Brasil'
-rights:             'Creative Commons Attribution--Non-commercial--No derivatives 4.0'
-date:               "23 de outubro de 2019"
-dir:                "ltr"
-lang:               "pt-BR"
-csl:                'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
-bibliography:       '_data/biblio.yaml'
-nocite:             "@*"
+- type            : collection
+  text            : 'Arquitetura ibérica: de al-Andalus ao Brasil'
+date              : "23 de outubro de 2019"
+lang              : "pt-BR"
+csl               : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+bibliography      : '_data/biblio.yaml'
 bibliography-title: 'Referências Bibliográficas'
-suppress-bibliography: True
-toc-title:          'Sumário'
-xnos-cleveref        : true
+xnos-cleveref     : true
 ---
 
 Introdução: das reminiscências ao revivalismo
@@ -80,8 +75,11 @@ observado na Europa ocidental, de introdução de motivos
 orientalistas no repertório da arquitetura eclética.
 
 
+Urbanismo arabizado e *des-arabizado*
+=====================================
+
 Substrato árabe na urbanização de Portugal
-==========================================
+------------------------------------------
 
 Tecidos arabizados nos séculos VIII a X, tais como
 a Alfama lisboeta ou o centro de Évora, formaram-se pela
@@ -206,7 +204,7 @@ blocos de quadras (sombreados em cinza) delimitados por ruas da frente
 
 
 Reurbanização afonsina
-======================
+----------------------
 
 Se a ocupação urbana hispanomuçulmana operou sobretudo uma
 sedimentação dos traçados e parcelamentos de origem romana,
@@ -290,8 +288,11 @@ efetivaria de finais do século XIV a meados do XV
 [@trindade:2009urbanismo, p. 626].
 
 
-Público e privado: reminiscências retrospectivas
+Heranças árabes na domesticidade luso-brasileira
 ================================================
+
+Público e privado: reminiscências retrospectivas
+------------------------------------------------
 
 O tipo edilício de base, a casa vernácula resultante desse
 reparcelamento, foi no Norte e no Centro de Portugal
@@ -420,7 +421,7 @@ pl. 8; @debret:1835diner]
 ]('https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg/507px-La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg')
 
 A morada luso-brasileira como reminiscência da domesticidade árabe
-==================================================================
+------------------------------------------------------------------
 
 A configuração típica da casa de morada instaurada no Brasil
 colonial derivava, em grande parte, da habitação urbana
@@ -527,8 +528,11 @@ habitações da classe média alta, releitura espacialmente
 peculiar das *family rooms* norte-americanas.
 
 
+Mourisco, moçárabe ou mudéjar?
+==============================
+
 O lugar periférico do ornato hispanomuçulmano na historiografia portuguesa
-==========================================================================
+--------------------------------------------------------------------------
 
 O estudo das reminiscências islâmicas na morfologia do
 espaço urbano e doméstico luso-brasileiro caracteriza um
@@ -637,7 +641,7 @@ dois países
 
 
 O *mudejarismo* erudito: controvérsias historiográficas
-=======================================================
+-------------------------------------------------------
 
 As análises da primeira metade do século XX colocariam,
 porém, em xeque essa leitura, evidenciando a contribuição
@@ -786,7 +790,7 @@ e concreto do que seria um *estilo* mudéjar em Portugal.
 
 
 A contaminação *mourisca* do neoclassicismo no Brasil imperial
-==============================================================
+--------------------------------------------------------------
 
 Como consequência do predomínio, até a segunda metade do
 século XX, da tese de que o "mudejarismo" português seria,
