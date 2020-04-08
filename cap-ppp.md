@@ -755,7 +755,14 @@ autor
 ]()
 <!--reproduzida em [Wikimedia Commons]()-->
 
-No entanto, a ênfase total neste âmbito dos elementos
+
+A contaminação *mourisca* do neoclassicismo no Brasil imperial
+==============================================================
+
+Abstrações teóricas e o *mudejarismo*
+-------------------------------------
+
+A ênfase total neste âmbito dos elementos
 formais individualizados tornou-se um curioso reminiscente
 do colecionismo museal oitocentista tardiamente incorporado
 à história da arquitetura.
@@ -787,10 +794,6 @@ A proposição, que não deixa de ser instigante numa visão de
 conjunto, deixa entretanto abertas todas as interrogações
 que se possa ter sobre um entendimento mais orgânico
 e concreto do que seria um *estilo* mudéjar em Portugal.
-
-
-A contaminação *mourisca* do neoclassicismo no Brasil imperial
---------------------------------------------------------------
 
 Como consequência do predomínio, até a segunda metade do
 século XX, da tese de que o "mudejarismo" português seria,
@@ -839,6 +842,10 @@ a identificação de elementos arabizados vernáculos no Brasil
 comparecera, já no século XIX, como um tema marcante na
 elaboração de uma narrativa sobre a identidade cultural da
 antiga América portuguesa.
+
+
+O Brasil *mourisco* dos viajantes
+---------------------------------
 
 Debret, cujas memórias do Brasil já foram tratadas mais
 acima do ponto de vista do espaço doméstico, dedicou também
