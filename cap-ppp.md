@@ -99,11 +99,9 @@ introvertidas e dotadas de pátio central.
 
 ![Perímetro da cidade romana de Évora evidenciando a
 sedimentação do traçado romano. Editado pelo autor com base
-em mapa de Cristóvão Aires, 1902 [@aires:1902historia1,
-XII] e arquivado no [Wikimedia
-Commons
-](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)
+em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png)
+<!--[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)-->
 
 O sistema de hierarquia viária e parcelamento do solo
 característico da arabização cultural e política da
@@ -203,9 +201,8 @@ e largos introvertidos.
 
 ![Judiaria de Castelo de Vide (Alto Alentejo), mostrando
 blocos de quadras (sombreados em cinza) delimitados por ruas da frente
-(contorno sólido) e contendo ruas de trás (tracejado). Desenho do
-autor
-](../60-grafico/6020-desenho/castelo_vide.png)
+(contorno sólido) e contendo ruas de trás (tracejado). Desenho do autor
+](fig/castelo_vide.png)
 
 
 Reurbanização afonsina
@@ -248,7 +245,7 @@ expansão da base agrária [@falini:1978politica, p. 99].
 
 ![Castelo e vila de Chaves, 1253. Desenho por Luísa Trindade
 [@trindade:2009urbanismo, 140]
-](../60-grafico/6020-desenho/chaves.png)
+](fig/chaves.png)
 
 A sobreposição ou justaposição das novas práticas aos
 tecidos históricos interrompeu a vigência de processos de
@@ -291,8 +288,6 @@ tradicionalmente ocupados pelas comunidades judaicas em
 verdadeiras judiarias reclusas e fortemente adensadas só se
 efetivaria de finais do século XIV a meados do XV
 [@trindade:2009urbanismo, p. 626].
-
-![Reparcelamento]()
 
 
 Público e privado: reminiscências retrospectivas
@@ -421,9 +416,8 @@ ocupava a mesma posição espacial e funcional que a varanda
 
 ![Jean-Baptiste Debret. Descanso na varanda após o
 jantar. Litografia. New York Public Library [@debret:1835voyage2,
-pr. 8; @debret:1835diner]
-](../60-grafico/6060-foto/debretnypl.png)
-
+pl. 8; @debret:1835diner]
+]('https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg/507px-La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg')
 
 A morada luso-brasileira como reminiscência da domesticidade árabe
 ==================================================================
@@ -443,7 +437,7 @@ desprovidas de janelas para o exterior
 [Ver @palazzo:2018tipologia].
 
 ![Jean-Baptiste Debret. Planta de morada urbana no Rio de
-Janeiro. Biblioteca Pública de Nova York [@debret:1839voyage3, pr.
+Janeiro. Biblioteca Pública de Nova York [@debret:1839voyage3, pl.
 42; @debret:1839plans]
 ](https://images.nypl.org/index.php?id=1224168&t=w&download=1&suffix=510d47df-7b9e-a3d9-e040-e00a18064a99.001)
 
@@ -659,8 +653,6 @@ Pedro Dias sugeriria, ao contrário, que
 são fruto da extensão de escolas regionais espanholas"
 [@dias:1994arquitectura, p. 52].
 
-![Mudéjar português]()
-
 Foram determinantes para tanto os vínculos da arqueologia
 portuguesa, por seu viés etnológico, com a história da
 literatura, no início do século XX.
@@ -755,7 +747,9 @@ como marcador intencional de identidade cultural.
 [@almeidafernandes:2017velhos24, p. 45--47].
 
 ![Matriz de São Pedro de Lourosa, Beira Alta, 912. Foto do
-autor, reproduzida em [Wikimedia Commons]()]()
+autor
+]()
+<!--reproduzida em [Wikimedia Commons]()-->
 
 No entanto, a ênfase total neste âmbito dos elementos
 formais individualizados tornou-se um curioso reminiscente
@@ -824,7 +818,11 @@ mas que era sancionada também pelo gosto germânico da época
 [@piacentini:1996dove], fato crucial na hierarquia crítica
 da primeira metade do século XX.
 
-![Açoteia algarvia]()
+![Açoteias no bairro do Consórcio português da conserva do peixe,
+arquiteto Eugénio Correia, Olhão
+(Algarve), 1935--1938  
+Foto: Estúdio Horácio Novais. Acervo FCG Biblioteca de Arte
+](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bairro_do_Cons%C3%B3rcio_Portugu%C3%AAs_de_Conservas_de_Peixe%2C_1938.jpg/749px-Bairro_do_Cons%C3%B3rcio_Portugu%C3%AAs_de_Conservas_de_Peixe%2C_1938.jpg)
 
 À semelhança da expansão ultramarina do reino de Portugal,
 o mudejarismo erudito e a arabização vernácula da cultura
@@ -870,8 +868,6 @@ Este, em publicação anônima, não deixara de observar, como
 outros autores europeus, o "gosto mourisco" do palácio da
 vila de Sintra [@merveilleux:1738memoires1, p. 97].
 
-![Paço da Vila de Sintra]()
-
 Fazendo uma espécie de sinédoque cultural, Debret tomou
 então o mudéjar de Sintra como sendo um caráter
 orientalizante geral do "gosto português", afastando este,
@@ -893,8 +889,8 @@ moderne, mais encore bizarre, et tenant du goût portugais,
 lourdement moresque." [@debret:1839voyage3, p. 6].
 
 ![Jean-Baptiste Debret. Paço da Quinta da Boa Vista em São
-Cristóvão, Rio de Janeiro, c. 1826 [@debret:1839voyage3, pr.
-X]]()
+Cristóvão, Rio de Janeiro, c. 1826 [@debret:1839voyage3, pl. X]
+](http://objdigital.bn.br/acervo_digital/div_iconografia/icon393054/icon393054_154.jpg)
 
 A leitura depreciativa deste "gosto mourisco" será talvez
 menos surpreendente, dada a vinculação teórica de Debret, do
@@ -909,7 +905,8 @@ descrição depreciativa explícita, para as leituras
 implícitas da arquitetura vernácula que transparecem na obra
 de Debret.
 
-![John Burchell. Vista da cidade de Santos, 1826]()
+![Henry Chamberlain. Uma historia, 1822 [@chamberlain:1822views]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Huma_historia_%282%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg/1024px-Huma_historia_%282%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg)
 
 De fato, Debret tratou da arquitetura vernácula do Rio de
 Janeiro sob um viés mais social do que artístico, como
@@ -939,7 +936,7 @@ vínculo da varanda brasileira com a "galeria mourisca":
   cylindriques de sa couverture.
   [@debret:1835voyage2, p. 42]
 
-![Varanda segundo Debret]()
+![Jean-Baptiste Debret. Varanda]()
 
 O "estilo mourisco" das colunas seria desconcertante para um
 classicista moderno, que enxergaria na litografia simples
@@ -982,9 +979,9 @@ ciclo de arabização artística e arquitetônica.
 
 ![Joaquim da Costa Lima. Palácio da Bolsa, sede da
 Associação Comercial do Porto, 1842--1848. Foto: Aurélio Paz
-dos Reis, anterior a
-1894, reproduzida em [Wikimedia
-Commons]('https://commons.wikimedia.org/wiki/File:Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg').](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa%2C_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique%2C_iniciado_em_1894_%28APR%29_%289289615971%29.jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa%2C_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique%2C_iniciado_em_1894_%28APR%29_%289289615971%29.jpg)
+dos Reis, anterior a 1894
+](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Caleches_em_frente_ao_Palácio_da_Bolsa%2C_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique%2C_iniciado_em_1894_%28APR%29_%289289615971%29.jpg/609px-Caleches_em_frente_ao_Palácio_da_Bolsa%2C_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique%2C_iniciado_em_1894_%28APR%29_%289289615971%29.jpg)
+<!--reproduzida em [Wikimedia Commons]('https://commons.wikimedia.org/wiki/File:Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg')-->
 
 Paradoxalmente, este novo ciclo era, também, derivado de
 influências europeias:
@@ -1044,8 +1041,9 @@ anteriores.
 ![Muxarabiê no solar Monjope, de José Mariano Filho,
 1920--1928, baseado em documentação por Nereu Sampaio,
 Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa.
-[@mariannofilho:1943influencias, reproduzida em [Wikimedia
-Commons](http://commons.wikimedia.org/wiki/File:Marianno_Filho_1943_Influencias_mu%C3%A7ulmanas_na_architectura_tradicional_Monjope.tif)]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg)
+[@mariannofilho:1943influencias]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif/lossy-page1-366px-Marianno_Filho_1943_Influencias_muçulmanas_na_architectura_tradicional_Monjope.tif.jpg)
+<!--reproduzida em [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Marianno_Filho_1943_Influencias_mu%C3%A7ulmanas_na_architectura_tradicional_Monjope.tif)]-->
 
 Referências bibliográficas
 ==========================
