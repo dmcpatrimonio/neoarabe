@@ -166,6 +166,10 @@ largos onde se situavam equipamentos comunitários, tais como
 bicas ou locais de culto, e por vezes algum comércio
 [@mazzoli-guintard:2000ciudades, p. 98].
 
+
+Reurbanização afonsina
+----------------------
+
 Como seria de se esperar, dada a persistência dos traçados
 viários na longa duração [@lavedan:1926questce],
 essa característica segregação espacial em vários níveis
@@ -201,10 +205,6 @@ e largos introvertidos.
 blocos de quadras (sombreados em cinza) delimitados por ruas da frente
 (contorno sólido) e contendo ruas de trás (tracejado). Desenho do autor
 ](fig/castelo_vide.png)
-
-
-Reurbanização afonsina
-----------------------
 
 Se a ocupação urbana hispanomuçulmana operou sobretudo uma
 sedimentação dos traçados e parcelamentos de origem romana,
