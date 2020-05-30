@@ -19,17 +19,16 @@ territory that is present-day Portugal has surged since the 1990s. The
 physical, cultural, and political evidence of Islamic presence in the
 westernmost fringes of the Iberian peninsula, long discounted as
 inconsequential with respect either to later Portuguese history or to
-the wider context of al-Andalus [@martins:1953teoriaXXVIII], have been
-cast increasing light. Such major achievements as the research carried
-out by the Archaeological authority of the city of Mértola
-[@costa:@2015arquitetura], the recovery of Sephardic sites of memory
-throughout southern Portugal [@barros:2019judeus; @prata:2017heranca],
-and the study of the Arab housing compounds on the sites of later
-medieval castles [@inacio:2009ensaio], sparked a golden age of medieval
-Islamic archaeology in Portugal [@macias:1998portugal]. In addition to
-this expanding archaeological picture, philological historiography has
-filled in, with increasing detail, the subtleties of urban life and
-governance in al-Andalus [@mazzoli-guintard:2000ciudades].
+the wider context of al-Andalus [@romero:1906patria], have been cast
+increasing light. Such major achievements as the research carried out by
+urban archaeologists [@costa:@2015arquitetura], the recovery of
+Sephardic sites of memory [@barros:2019judeus; @prata:2017heranca], and
+the study of the Arab housing compounds on the sites of later medieval
+castles [@inacio:2009ensaio], sparked a golden age of medieval Islamic
+archaeology in Portugal [@macias:1998portugal]. In addition to this
+expanding archaeological picture, philological historiography has filled
+in, with increasing detail, the subtleties of urban life and governance
+in al-Andalus [@mazzoli-guintard:2000ciudades].
 
 Although these new discoveries and interpretations have led to a
 thorough reassessment of the history of medieval Portugal, they have
@@ -39,11 +38,31 @@ nineteenth and early twentieth centuries, from Theophilo Braga in
 Portugal [@braga:1870historia] to José Marianno Filho
 [@mariannofilho:1943influencias] in Brazil and the Portuguese émigré to
 Brazil, Ricardo Severo [@severo:1916arte], erected reminiscences of
-Islamic culture into building blocks of national identity on both sides
-of the Atlantic. Yet, these and other critics, making the best out of
-the archaeological and philological means of their age, struggled with
-then prevailing Western racial hierarchies to acknowledge a foundational
-role for 'Mozarabic' culture in shaping the traditions of the Portuguese
-speaking world.
+Islamic culture into building blocks of national identity on both shores
+of the Atlantic. These and other critics strove to acknowledge a
+foundational role for Islamic culture in shaping the traditions of the
+Portuguese speaking world.
 
+This article explores the links between the concept of 'Mozarabism' in
+the history and theory of Portuguese literature
+[@martins:1953teoriaXXVIII], and the emergence of nationalist
+architectural discourses promoting the appropriation of Islamic
+traditions. This relationship between literature and architecture arises
+out of Romanticist historical fiction [@almeidagarrett:1844miragaia] as
+a justification for a hedonistic 'architectural Orientalism'
+[@oulebsir:2009orientalisme]. As with *andalucismo* in Spain, however,
+the Portuguese and Brazilian ability to leverage Islamic heritage within
+a nationalist narrative ultimately hinges on these nations' quite
+serious efforts at their own 'anthropological nation-building'
+[@leal:2006tylorian].
+
+For all the misappropriations and self-interested misreadings of Islamic
+heritage perpetrated by these late-nineteenth and early-twentieth
+century writers, I contend Luso-Brazilian 'Mozarabism' nevertheless
+builds upon real cultural exchanges between the Portuguese and Arabic
+speaking worlds from as early as the sixteenth century, and culminating
+in the thriving twentieth-century Arab communities in Brazil. Finally,
+the growing awareness, moving forward, of climate-sensitive architecture
+and of a pan-Mediterranean culture, has made these exchanges ever
+stronger and more theoretically consistent.
 
