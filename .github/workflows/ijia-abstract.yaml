@@ -12,7 +12,7 @@ jobs:
         cd ${{ github.workspace }}
         pip install -r requirements.txt
         git clone https://github.com/citation-style-language/styles.git
-        which pandoc-xnos
+        apt-get install pandoc==2.9.2.1 pandoc-citeproc==0.17
     - name: Convert file
       run: |
         cd ${{ github.workspace }}
