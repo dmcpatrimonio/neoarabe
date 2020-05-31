@@ -25,7 +25,6 @@ _site/
 *.epub
 *.mobi
 *.pdf
-styles/
 
 # LaTeX {{{ 1
 ## Core latex/pdflatex auxiliary files: {{{2
