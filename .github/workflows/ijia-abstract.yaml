@@ -6,12 +6,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
     - name: Setup environment
       run: |
         cd ${{ github.workspace }}
         pip install -r requirements.txt
-        sudo apt-get install pandoc=2.9.2.1 pandoc-citeproc=0.17
+        sudo apt-get install pandoc pandoc-citeproc
+        pandoc --version
+        pandoc-citeproc --version
+    - uses: actions/checkout@v2
+    - name: Setup CSL styles
+      run:
         git submodule add https://github.com/citation-style-language/styles.git
     - name: Convert file
       run: |
