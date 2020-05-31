@@ -1,7 +1,7 @@
 Neoárabe: caminhos da arquitetura árabe no Brasil
 =================================================
 
-![IJIA Abstract](https://github.com/dmcpatrimonio/neoarabe/workflows/.github/workflows/ijia-abstract.yaml/badge.svg?branch=ijia)
+![IJIA Abstract](https://github.com/dmcpatrimonio/neoarabe/workflows/IJIA%20Abstract/badge.svg)
 
 License
 -------

@@ -1,6 +1,9 @@
+name: IJIA Abstract
+
 on:
   push:
-    branches: [ ijia ]
+    branches: [ master ]
+  pull_request:
 
 jobs:
   build:
