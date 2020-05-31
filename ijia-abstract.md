@@ -1,7 +1,9 @@
 ---
 title: "Literary Views of 'Mozarabism' in Portuguese Architecture, 1875--1945"
 author: Pedro Paulo Palazzo
-date  : 2020-05-29
+date  : >-
+  *International Journal of Islamic Architecture* special issue:
+  "Hinterland Forces: Architectural Responses at the Margins"
 keywords:
 - al-Gharb al-Andalus
 - Portugal
@@ -58,6 +60,6 @@ serious efforts at their own 'anthropological nation-building'
 precisely during the heyday of Portugal's and Brazil's far right,
 nationalistic régimes in the 1930s, it lays the foundations for the late
 twentieth century awareness of a pan-Mediterranean culture
-[@costa:@2015arquitetura] and of climate sensitive architecture
+[@costa:2015arquitetura] and of climate sensitive architecture
 [@paulo:2008pequena].
 
