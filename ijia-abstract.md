@@ -10,6 +10,7 @@ keywords:
 - Nineteenth and twentieth centuries
 csl: "styles/chicago-fullnote-bibliography-with-ibid.csl"
 lang: en-GB
+bibliography: "bibliography/biblio.bib"
 suppress-bibliography: true
 ---
 
