@@ -11,8 +11,8 @@ jobs:
       run: |
         cd ${{ github.workspace }}
         pip install -r requirements.txt
-        git clone https://github.com/citation-style-language/styles.git
         apt-get install pandoc==2.9.2.1 pandoc-citeproc==0.17
+        git submodule add https://github.com/citation-style-language/styles.git
     - name: Convert file
       run: |
         cd ${{ github.workspace }}
