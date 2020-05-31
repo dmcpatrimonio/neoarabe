@@ -4,10 +4,18 @@
 VPATH = lib
 vpath %.yaml .:spec
 vpath default.% lib/pandoc-templates
+vpath %.bib .:bibliography
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+%.pdf : %.md biblio.bib pdf.yaml
+	docker run --rm -v "`pwd`:/data" --user `id -u`:`id -g` \
+		pandoc/latex:2.9.2.1 $< -d spec/pdf.yaml -o $@
+
+%.docx : %.md biblio.bib docx.yaml
+	docker run --rm -v "`pwd`:/data" --user `id -u`:`id -g` \
+		palazzo/pandoc-xnos:2.3.0 $< -d spec/docx.yaml -o $@
 
 # Install and cleanup {{{1
 # ===================
