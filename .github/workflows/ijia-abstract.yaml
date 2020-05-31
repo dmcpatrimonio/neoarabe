@@ -10,6 +10,7 @@ jobs:
     - name: Set up environment
       run: |
         cd ${{ github.workspace }}
+        pip install wheel
         pip install -r requirements.txt
         which pandoc-xnos
     - name: Setup CSL styles

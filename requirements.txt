@@ -1,4 +1,3 @@
-wheel
 lice==0.6
 pandoc-eqnos==2.1.1
 pandoc-fignos==2.2.0
