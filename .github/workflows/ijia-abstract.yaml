@@ -13,6 +13,7 @@ jobs:
         pandoc-citeproc --version
     - uses: actions/checkout@v2
     - name: Set up environment
+      run:
         cd ${{ github.workspace }}
         pip install -r requirements.txt
     - name: Setup CSL styles
