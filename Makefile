@@ -10,10 +10,12 @@ vpath %.bib .:bibliography
 # ===================================
 
 %.pdf : %.md biblio.bib article.yaml
-	pandoc $< -d spec/article.yaml -o $@
+	docker run --rm -v "`pwd`:/data" -v "/:/" --user `id -u`:`id -g` \
+		pandoc/latex:2.9.2.1 $< -d spec/article.yaml -o $@
 
 %.docx : %.md biblio.bib article.yaml
-	pandoc $< -d spec/article.yaml -o $@
+	docker run --rm -v "`pwd`:/data" -v "/:/" --user `id -u`:`id -g` \
+		pandoc/latex:2.9.2.1 $< -d spec/article.yaml -o $@
 
 # Install and cleanup {{{1
 # ===================

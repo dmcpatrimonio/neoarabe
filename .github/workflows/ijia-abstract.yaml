@@ -6,18 +6,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Install Pandoc and Pandoc-citeproc
-      run: |
-        sudo apt-get install pandoc pandoc-citeproc
-        pandoc --version
-        pandoc-citeproc --version
     - uses: actions/checkout@v2
     - name: Set up environment
       run: |
         cd ${{ github.workspace }}
         pip install -r requirements.txt
+        which pandoc-xnos
     - name: Setup CSL styles
       run:
+        cd ${{ github.workspace }}
         git submodule add https://github.com/citation-style-language/styles.git
     - name: Convert file
       run: |
