@@ -4,10 +4,13 @@
 VPATH = lib
 vpath %.yaml .:spec
 vpath default.% lib/pandoc-templates
+vpath %.bib .:bibliography
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+%.pdf : %.md biblio.bib article.yaml
+	pandoc -d spec/article.yaml -o $@ $<
 
 # Install and cleanup {{{1
 # ===================

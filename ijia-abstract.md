@@ -8,8 +8,6 @@ keywords:
 - Architectural history
 - Literary theory
 - Nineteenth and twentieth centuries
-description: >-
-  
 csl: chicago-fullnote-bibliography-with-ibid.csl
 lang: en-GB
 suppress-bibliography: true
