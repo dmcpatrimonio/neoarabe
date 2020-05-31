@@ -11,17 +11,18 @@ keywords:
 description: >-
   
 csl: chicago-fullnote-bibliography-with-ibid.csl
+lang: en-GB
 suppress-bibliography: true
 ---
 
 Scholarly and public interest in the legacies of Islamic rule over the
 territory that is present-day Portugal has surged since the 1990s. The
 physical, cultural, and political evidence of Islamic presence in the
-westernmost fringes of the Iberian peninsula, long discounted as
-inconsequential with respect either to later Portuguese history or to
-the wider context of al-Andalus [@romero:1906patria], have been cast
-increasing light. Such major achievements as the research carried out by
-urban archaeologists [@costa:@2015arquitetura], the recovery of
+westernmost fringes of the Iberian peninsula, long discounted as a mere
+'perturbation' [@romero:1906patria, 449] with respect either to later
+Portuguese history or to the wider context of al-Andalus, have been
+cast increasing light. Such major achievements as the research carried
+out by urban archaeologists [@costa:2015mertola], the recovery of
 Sephardic sites of memory [@barros:2019judeus; @prata:2017heranca], and
 the study of the Arab housing compounds on the sites of later medieval
 castles [@inacio:2009ensaio], sparked a golden age of medieval Islamic
@@ -54,15 +55,10 @@ a justification for a hedonistic 'architectural Orientalism'
 the Portuguese and Brazilian ability to leverage Islamic heritage within
 a nationalist narrative ultimately hinges on these nations' quite
 serious efforts at their own 'anthropological nation-building'
-[@leal:2006tylorian].
-
-For all the misappropriations and self-interested misreadings of Islamic
-heritage perpetrated by these late-nineteenth and early-twentieth
-century writers, I contend Luso-Brazilian 'Mozarabism' nevertheless
-builds upon real cultural exchanges between the Portuguese and Arabic
-speaking worlds from as early as the sixteenth century, and culminating
-in the thriving twentieth-century Arab communities in Brazil. Finally,
-the growing awareness, moving forward, of climate-sensitive architecture
-and of a pan-Mediterranean culture, has made these exchanges ever
-stronger and more theoretically consistent.
+[@leal:2006tylorian, 111]. Though nationalist 'Mozarabism' wanes
+precisely during the heyday of Portugal's and Brazil's far right,
+nationalistic régimes in the 1930s, it lays the foundations for the late
+twentieth century awareness of a pan-Mediterranean culture
+[@costa:@2015arquitetura] and of climate sensitive architecture
+[@paulo:2008pequena].
 
