@@ -9,12 +9,12 @@ vpath %.bib .:bibliography
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-%.pdf : %.md biblio.bib article.yaml
-	docker run --rm -v "`pwd`:/data" -v "/:/" --user `id -u`:`id -g` \
+%.pdf : %.md biblio.bib pdf.yaml
+	docker run --rm -v "`pwd`:/data" --user `id -u`:`id -g` \
 		pandoc/latex:2.9.2.1 $< -d spec/article.yaml -o $@
 
-%.docx : %.md biblio.bib article.yaml
-	docker run --rm -v "`pwd`:/data" -v "/:/" --user `id -u`:`id -g` \
+%.docx : %.md biblio.bib docx.yaml
+	docker run --rm -v "`pwd`:/data" --user `id -u`:`id -g` \
 		pandoc/latex:2.9.2.1 $< -d spec/article.yaml -o $@
 
 # Install and cleanup {{{1

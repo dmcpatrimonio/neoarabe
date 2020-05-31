@@ -13,15 +13,15 @@ jobs:
         pip install wheel
         pip install -r requirements.txt
     - name: Setup CSL styles
-      run:
+      run: |
         cd ${{ github.workspace }}
         git submodule add https://github.com/citation-style-language/styles.git
     - name: Convert file
-      run: |
-        cd ${{ github.workspace }}
-        make ijia-abstract.pdf
+      uses: docker://pandoc/latex:2.9.2.1
+      with:
+        args: -d spec/pdf.yaml -o ijia-abstract.pdf ijia-abstract.md
     - name: Upload file
       uses: actions/upload-artifact@v2
       with:
         name: ijia-abstract
-        path: ${{ github.workspace }}/ijia-abstract.pdf
+        path: ijia-abstract.pdf
