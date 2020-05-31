@@ -1,14 +1,14 @@
 ---
 title: "Literary Views of 'Mozarabism' in Portuguese Architecture, 1875--1945"
 author: Pedro Paulo Palazzo
-date  : 2020-05-23
+date  : 2020-05-29
 keywords:
 - al-Gharb al-Andalus
 - Portugal
 - Architectural history
 - Literary theory
 - Nineteenth and twentieth centuries
-csl: chicago-fullnote-bibliography-with-ibid.csl
+csl: "styles/chicago-fullnote-bibliography-with-ibid.csl"
 lang: en-GB
 suppress-bibliography: true
 ---

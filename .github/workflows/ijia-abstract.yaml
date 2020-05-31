@@ -1,0 +1,24 @@
+on:
+  push:
+    branches: [ ijia ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup environment
+      run: |
+        cd ${{ github.workspace }}
+        pip install -r requirements.txt
+        git clone https://github.com/citation-style-language/styles.git
+    - name: Convert file
+      uses: docker://pandoc/latex:2.9.2.1
+      run: |
+        cd ${{ github.workspace }}
+        make ijia-abstract.pdf
+    - name: Upload file
+      uses: actions/upload-artifact@v2
+      with:
+        name: ijia-abstract
+        path: ${{ github.workspace }}/ijia-abstract.pdf
