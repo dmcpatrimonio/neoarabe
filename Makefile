@@ -26,6 +26,8 @@ styles :
 # ===================
 
 clean :
-	-rm -r styles
+	-rm -r styles .*.lb *.aux *.bbl *.bcf *.blg *-blx.aux *-blx.bib *.cb \
+		*.cb2 *.dvi *.fls *.fmt *.fot *.lof *.log *.lot *.out *.run.xml \
+		*.toc *.xdv
 
 # vim: set foldmethod=marker :
