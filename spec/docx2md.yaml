@@ -3,7 +3,5 @@ file-scope             : True
 standalone             : True
 from                   : 'docx'
 to                     : 'markdown'
-table-of-contents      : True
-number-sections        : False
-columns                : 72 # The default
+columns                : 72
 reference-location     : 'block'
