@@ -14,7 +14,6 @@ lang              : "pt-BR"
 csl               : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
 bibliography      : '_data/biblio.yaml'
 bibliography-title: 'Referências Bibliográficas'
-xnos-cleveref     : true
 ---
 
 Introdução: das reminiscências ao revivalismo
