@@ -1,12 +1,16 @@
-filters:
-- pandoc-xnos
-- pandoc-citeproc
+from                   : 'markdown'
+to                     : 'docx'
+csl                    : 'chicago-fullnote-bibliography-with-ibid'
+default-image-extension: '.jpg'
 fail-if-warnings       : True
 file-scope             : True
-standalone             : True
-from                   : 'markdown'
-table-of-contents      : False
+filters:
+- pandoc-crossref
+- citeproc
 number-sections        : False
+standalone             : True
+suppress-bibliography  : False
+table-of-contents      : False
 resource-path:
 - .
 - fig

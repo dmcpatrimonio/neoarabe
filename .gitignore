@@ -13,20 +13,22 @@ _book
 # For when you want to keep downloaded or received files next to your
 # repo without committing them (bc they're usually binaries).
 _share
+fig
 
 # Jekyll {{{1
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.vendor # Local path for bundler install without admin rights
+.vendor/
+.bundle/
 
 # eBook build output {{{1
 *.epub
 *.mobi
 *.pdf
 
-# LaTeX {{{ 1
+# LaTeX {{{1
 ## Core latex/pdflatex auxiliary files: {{{2
 *.aux
 *.lof
