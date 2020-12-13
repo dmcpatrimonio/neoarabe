@@ -1,5 +1,6 @@
 ---
 title: "Literary Views of 'Mozarabism' in Portuguese Architecture, 1875--1945"
+#title: "Literary Reconstructions of Islamic Portugal and Architectural History"
 author: Pedro Paulo Palazzo
 date  : >-
   *International Journal of Islamic Architecture* special issue:
